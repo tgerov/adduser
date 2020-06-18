@@ -7,9 +7,9 @@
 
 #include <windows.h>
 #include <string.h>
-#include <Lmaccess.h>
+#include <lmaccess.h>
 #include <lmerr.h>
-#include <Tchar.h>
+#include <tchar.h>
 
 
 DWORD CreateAdminUserInternal(void)
